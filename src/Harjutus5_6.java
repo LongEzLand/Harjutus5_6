@@ -6,12 +6,26 @@
 
  1. Write the number 1 next to the first line of code in this program that
  will execute.
+
  //Writing the numbers behind the lines as comments.
+
  2. Write the number 2 next to the second line of code, and so on until the
  end of the program. If a line is executed more than once, it might end
  up with more than one number next to it.
+
+ //Writing the numbers behind the lines as comments.
+
  3. What is the value of the parameter "blimp" when "baffle" gets invoked?
+
+ The value is "rattle"
+
  4. What is the output of this program?
+
+ ik
+ rattle
+ ping zoop
+ boo-wa-ha-ha
+
 
  *
  */
